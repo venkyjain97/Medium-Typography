@@ -1,0 +1,55 @@
+h2{
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+p {
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 150.6%;
+  
+}
+#p1{
+  contain: layout;
+  margin-left: 110px;
+  width: 880px;
+}
+#para {
+  position: absolute;
+  width: 910px;
+  height: 374px;
+  left: 180px;
+  top: 89px;
+}
+#image2{
+  position: absolute;
+  
+  width: 10px;
+  height: 204px;
+  left: 1000px;
+}
+#image2 img{
+  height: 382px;
+}
+.para1 p{
+  margin-left: 500px;
+  
+}
+#footer1 {
+  margin-top: 40px;
+  
+   margin-left: 180px;
+}
+#image4{
+  height: 450px;
+  
+  width: 890px;
+  margin-left: 130px;
+}
+#copyright{
+  margin-left: 290px;
+}
